@@ -40,7 +40,7 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/05a5ce8f6aefa85b4ea64.jpg',
+                    url: 'https://telegra.ph/file/270422fca219c19f0e22c.jpg',
                 },
 
                 caption: `
@@ -66,7 +66,7 @@ Ex:- ${prefix}setvar OPENAI_API_KEY:put OPENAI api key
 Ex:- ${prefix}setvar OWNER_NUMBER:put any name
 
 *⚙️ ❼ ➢ Tᴏ Sᴇᴛ Oᴡɴᴇʀ Nᴜᴍʙᴇʀ :*
-Ex:- ${prefix}setvar OWNER_NUMBER:94766632281
+Ex:- ${prefix}setvar OWNER_NUMBER:947666322xx
 
 *⚙️ ➑ ➢ Tᴏ Sᴇᴛ Pᴀᴄᴋ Iɴꜰᴏ :*
 Ex:- ${prefix}setvar PACK_INFO:put any name
@@ -89,9 +89,7 @@ Ex:- ${prefix}setvar WORKTYPE:public/private
 *⚠️ Don't Add Space Before This ➢ " : " Symbol.*
 ════════════════════════
 
-*⦁ Lᴇᴏ - MᴜʟᴛɪDᴇᴠɪᴄᴇ Bᴏᴛ ⦁*
-   *⦁ Bʏ - Cʏʙᴇʀ Iꜱᴜʀᴜ ⦁*
-`,
+*⦁ ʟᴇᴏ - ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ ⦁*`,
 
                 footer: tlang().footer,
                 headerType: 4,
